@@ -1,0 +1,4 @@
+apple
+book
+donut
+chair
